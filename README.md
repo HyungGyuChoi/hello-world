@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+GitHub Test
+Learning time
