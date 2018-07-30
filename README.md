@@ -1,3 +1,3 @@
 # hello-world
-GitHub Test
-Learning time
+GitHub Test.
+Learning time.
